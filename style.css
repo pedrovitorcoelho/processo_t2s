@@ -1,0 +1,30 @@
+*{
+    font-family: 'Roboto', sans-serif;     
+    color: #fff;
+}
+
+
+h2{
+    color: #000;
+
+}
+
+i:hover {
+    /* Defina as propriedades de hover aqui, por exemplo: */
+    color: rgb(208, 208, 208);
+    text-decoration: none;
+}
+
+a:hover {
+    /* Defina as propriedades de hover aqui, por exemplo: */
+    color: rgb(208, 208, 208);
+    text-decoration: none;
+}
+
+.col-6 p{
+    text-align: center;
+}
+
+html{
+    scroll-behavior: smooth;
+}
